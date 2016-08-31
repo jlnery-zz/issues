@@ -1,6 +1,8 @@
 # Issues
 
-**TODO: Add description**
+This is a sample project developed for me while fun programming. 
+
+(By Programming Elixir 1.3)
 
 ## Installation
 
